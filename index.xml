@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://matthewrhysjones.github.io/publications/</link>
-      <pubDate>Tue, 20 Oct 2020 17:51:47 +0330</pubDate>
-      
-      <guid>https://matthewrhysjones.github.io/publications/</guid>
-      <description>Coming soon!</description>
-    </item>
-    
-    <item>
       <title>5 Best Ways To Sell ML</title>
       <link>https://matthewrhysjones.github.io/blog/blog3/</link>
       <pubDate>Tue, 12 May 2020 16:11:56 -0700</pubDate>
@@ -54,6 +45,15 @@
       
       <guid>https://matthewrhysjones.github.io/blog/blog1/</guid>
       <description>Nulla fermentum blandit metus sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://matthewrhysjones.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewrhysjones.github.io/publications/</guid>
+      <description>Coming soon!</description>
     </item>
     
   </channel>
