@@ -1,6 +1,6 @@
 # Basic Information 
 title: Matthew Jones
-position: Research Associate
+position: Research Fellow
 affiliation: University of Sheffield
 affiliation_link: https://www.sheffield.ac.uk/mecheng
 email: matthew.r.jones@sheffield.ac.uk
@@ -8,7 +8,7 @@ email: matthew.r.jones@sheffield.ac.uk
 # Search Engine Optimization (SEO)
 keywords: matthew jones, matthew rhys jones, matthew jones sheffield
 canonical: https:/matthewrhysjones.github.io/
-description: Matt is a Research Associate at the University of Sheffield. His research lies in fusing interpretability and physics within probabilstic machine learners.
+description: Matt is a Research Fellow at the University of Sheffield. His research lies in fusing interpretability and physics within probabilstic machine learners for predictive maintenance applications.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false

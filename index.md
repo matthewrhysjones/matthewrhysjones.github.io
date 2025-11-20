@@ -19,10 +19,7 @@ Hi there! My name is Matt and I am a Research Fellow in the [Dynamics Research G
 - **[Dec. 2024]** Hosted a one day event on physics-informed machine learning as part of the 6th Dynamics Research Group workshop.
 - **[May. 2024]** Began a 3 month research visit with Dr. Mauricio Alvarez at University of Manchester looking at the interpretability of deep Gaussian processes. 
 - **[March. 2024]** Our recent paper on a spectrum of approaches for physics-informed Gaussian processes was published in DCE.
-<!-- - **[Dec. 2023]** Our recent paper on probabilstic acoustic emission anaylsis using Dirichlet process mixture models was published in MSSP. -->
-<!-- - **[Nov. 2023]** Hosted a one day event on physics-informed machine learning as part of the 5th Dynamics Research Group workshop.
-- **[Jan. 2023]** I passed my PhD viva.
-- **[Nov. 2022]** Our paper about constrained Gaussian processes for physics-informed damage mapping was published in MSSP. -->
+
 
 {% include_relative _includes/publications.md %}
 
