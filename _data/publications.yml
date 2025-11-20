@@ -1,5 +1,24 @@
 main:
 
+  # - title: "Full-scale modal testing of a Hawk T1A aircraft for benchmarking vibration-based methods"
+  #   authors: Marcus Haywood-Alexander, Robin Mills, Max Champneys, <strong>Matthew Jones</strong>, Matthew Bonney, David Wagg, Timothy Rogers
+  #   # conference_short: MSSP
+  #   conference: Journal of Sound and Vibration (JSV).
+  #   pdf: https://www.sciencedirect.com/science/article/pii/S0022460X24000592
+  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:qVz56BdtSy0J:scholar.google.com/&output=citation&scisdr=ChXGI6CrEJOlpqXiv1s:ABGrvjIAAAAAaR7kp1sQmPdEfloo55bowl_3L98&scisig=ABGrvjIAAAAAaR7kp9-RO8nP_DsAtZyZmzjxMcY&scisf=4&ct=citation&cd=-1&hl=en
+  #   # image: ./assets/img/teaser_example_2.png
+  #   # notes: Early Accept
+
+  - title: "A spectrum of physics-informed Gaussian processes for regression in engineering"
+    authors: Elizabeth Cross, Timothy Rogers, Daniel Pitchforth, Samuel Gibson, Sikai Zhang, <strong>Matthew Jones</strong>
+    # conference_short: MSSP
+    conference: Data Centric Engineering (DCE).
+    pdf: https://www.cambridge.org/core/journals/data-centric-engineering/article/spectrum-of-physicsinformed-gaussian-processes-for-regression-in-engineering/3B40D1577F8BD8E3ECF4131004145F76
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:_1Kx-_WNGK0J:scholar.google.com/&output=citation&scisdr=ChXGI6CrEOC4pqXiBsE:ABGrvjIAAAAAaR7kHsHX4Lqx4Wef4KluBejvIcc&scisig=ABGrvjIAAAAAaR7kHomRSuoSKEmI-HwejSAy_Bs&scisf=4&ct=citation&cd=-1&hl=en
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
+
   - title: "Constraining Gaussian processes for physics-informed acoustic emission mapping"
     authors: <strong>Matthew Jones</strong>, Timothy Rogers, Elizabeth Cross
     # conference_short: MSSP
