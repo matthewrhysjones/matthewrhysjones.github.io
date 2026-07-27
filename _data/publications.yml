@@ -1,13 +1,13 @@
 main:
 
-  # - title: "Full-scale modal testing of a Hawk T1A aircraft for benchmarking vibration-based methods"
-  #   authors: Marcus Haywood-Alexander, Robin Mills, Max Champneys, <strong>Matthew Jones</strong>, Matthew Bonney, David Wagg, Timothy Rogers
-  #   # conference_short: MSSP
-  #   conference: Journal of Sound and Vibration (JSV).
-  #   pdf: https://www.sciencedirect.com/science/article/pii/S0022460X24000592
-  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:qVz56BdtSy0J:scholar.google.com/&output=citation&scisdr=ChXGI6CrEJOlpqXiv1s:ABGrvjIAAAAAaR7kp1sQmPdEfloo55bowl_3L98&scisig=ABGrvjIAAAAAaR7kp9-RO8nP_DsAtZyZmzjxMcY&scisf=4&ct=citation&cd=-1&hl=en
-  #   # image: ./assets/img/teaser_example_2.png
-  #   # notes: Early Accept
+  - title: "Full-scale modal testing of a Hawk T1A aircraft for benchmarking vibration-based methods"
+    authors: Marcus Haywood-Alexander, Robin Mills, Max Champneys, <strong>Matthew Jones</strong>, Matthew Bonney, David Wagg, Timothy Rogers
+    # conference_short: MSSP
+    conference: Journal of Sound and Vibration (JSV).
+    pdf: https://www.sciencedirect.com/science/article/pii/S0022460X24000592
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:qVz56BdtSy0J:scholar.google.com/&output=citation&scisdr=ChXGI6CrEJOlpqXiv1s:ABGrvjIAAAAAaR7kp1sQmPdEfloo55bowl_3L98&scisig=ABGrvjIAAAAAaR7kp9-RO8nP_DsAtZyZmzjxMcY&scisf=4&ct=citation&cd=-1&hl=en
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
 
   - title: "A spectrum of physics-informed Gaussian processes for regression in engineering"
     authors: Elizabeth Cross, Timothy Rogers, Daniel Pitchforth, Samuel Gibson, Sikai Zhang, <strong>Matthew Jones</strong>
@@ -47,15 +47,4 @@ main:
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iNRoRV43uTcJ:scholar.google.com/&output=citation&scisdr=ClHd9VfaEJCJzw05Roc:AFWwaeYAAAAAZac_XodPVY8hErs_8UOtoD13W34&scisig=AFWwaeYAAAAAZac_Xo39mRmJvaKF1UrfV1UrwaY&scisf=4&ct=citation&cd=-1&hl=en
-    # image: ./assets/img/teaser_example.png
-
-    
-  - title: "Physically meaningful uncertainty quantification in probabilistic wind turbine power curve models as a damage-sensitive feature"
-    authors: Jacques Mclean, <strong>Matthew Jones</strong>, Brandon O'Connell, Eoghan Maguire, Timothy Rogers
-    # conference_short: MSSP
-    conference: Structural Health Monitoring (SHM).
-    pdf: https://journals.sagepub.com/doi/full/10.1177/14759217231155379
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3k5STM8v5p8J:scholar.google.com/&output=citation&scisdr=ClHd9VfaEJPB4A051M0:AFWwaeYAAAAAZac_zM1omdU_qt8TtFE4nx4cdko&scisig=AFWwaeYAAAAAZac_zJsQW4pEG8v-bR1iej8FOcg&scisf=4&ct=citation&cd=-1&hl=en
     # image: ./assets/img/teaser_example.png
