@@ -1,13 +1,13 @@
 main:
 
-  # - title: "Full-scale modal testing of a Hawk T1A aircraft for benchmarking vibration-based methods"
-  #   authors: Marcus Haywood-Alexander, Robin Mills, Max Champneys, <strong>Matthew Jones</strong>, Matthew Bonney, David Wagg, Timothy Rogers
-  #   # conference_short: MSSP
-  #   conference: Journal of Sound and Vibration (JSV).
-  #   pdf: https://www.sciencedirect.com/science/article/pii/S0022460X24000592
-  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:qVz56BdtSy0J:scholar.google.com/&output=citation&scisdr=ChXGI6CrEJOlpqXiv1s:ABGrvjIAAAAAaR7kp1sQmPdEfloo55bowl_3L98&scisig=ABGrvjIAAAAAaR7kp9-RO8nP_DsAtZyZmzjxMcY&scisf=4&ct=citation&cd=-1&hl=en
-  #   # image: ./assets/img/teaser_example_2.png
-  #   # notes: Early Accept
+  - title: "Full-scale modal testing of a Hawk T1A aircraft for benchmarking vibration-based methods"
+    authors: Marcus Haywood-Alexander, Robin Mills, Max Champneys, <strong>Matthew Jones</strong>, Matthew Bonney, David Wagg, Timothy Rogers
+    # conference_short: MSSP
+    conference: Journal of Sound and Vibration (JSV).
+    pdf: https://www.sciencedirect.com/science/article/pii/S0022460X24000592
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:qVz56BdtSy0J:scholar.google.com/&output=citation&scisdr=ChXGI6CrEJOlpqXiv1s:ABGrvjIAAAAAaR7kp1sQmPdEfloo55bowl_3L98&scisig=ABGrvjIAAAAAaR7kp9-RO8nP_DsAtZyZmzjxMcY&scisf=4&ct=citation&cd=-1&hl=en
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
 
    - title: "Grey-box Gaussian processes for mode shape normalisation: Damage localisation under environmental and operational variability"
     authors: Sören Möller, <strong>Matthew R Jones</strong>, Clemens Jonscher, Jasper Ragnitz, Elizabeth J Cross, Raimund Rolfes
