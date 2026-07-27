@@ -9,6 +9,15 @@ main:
   #   # image: ./assets/img/teaser_example_2.png
   #   # notes: Early Accept
 
+   - title: "Grey-box Gaussian processes for mode shape normalisation: Damage localisation under environmental and operational variability"
+    authors: Sören Möller, <strong>Matthew R Jones</strong>, Clemens Jonscher, Jasper Ragnitz, Elizabeth J Cross, Raimund Rolfes
+    # conference_short: MSSP
+    conference: Mechanical Systems and Signal Processing.
+    pdf: https://pdf.sciencedirectassets.com/272413/1-s2.0-S0888327026X20088/1-s2.0-S0888327026005108/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDTRmzJj0HrzAoUCbGXHFbBpuumofuO%2Fu9bx2C7RXWt%2BQIhALKCn3uPZIdz0ibPj02UnnZid2bowKzFEErKCLXi%2B1XIKrMFCFIQBRoMMDU5MDAzNTQ2ODY1Igy6QfGLY1TiaWq7EIUqkAXMBhHn7CBNn0hNr6PH5YGjk%2B3DOquEuHpViGgnH%2BoimP3gc%2BXsKDtZGco%2F%2FKK6um1BuQgiQ3OId8KZVNVX42M7WhELR%2BzhWmKBYeHWyZZdm2gG%2FYmHnD%2FDigLuFv%2BKg9yjxQyg2mbzxw3zHU8sRB3FfCTHw5vvT6mS8EIXDAUklt6PrWE5V91wwT5u3iytY34f%2FlMZ7WnB3dyAtIyLd9MLQa9vtvnqUw3uYDnadBwNmZGQ5%2B5Bofhepl97QoX50TBoS2%2BhMss8RHdznZEExplwGzr%2F%2Bj4KtitNi22isO%2B0v1h98Ur71F53w5xk%2BIDlmRoQr3K7dcSmqqdw1rq3qnoskfG0uzcjypVHN1UWqDNpNX%2F6kPZc19kM2sri%2FTurmCcH7%2FrNsnJ0TNkFE1wJ%2Bgm8MPW90tMMWUsdwzSjSuK08DXFIpfVmXJmubJoWdiNrtqUvB7%2BCU5%2BgrzvXPlaHIWQ1fUVzWtfbYm%2BnJc7A7kPwxC85la5TppM0Sh9tizaveqdkUaI7YIGL5TS2EuQjwYDK3SqKLGNUJNlxe2%2B07af3Anwqj63%2FSgkDkjVxghap%2BrRX0YgK2dhdlCXbVgm%2B8fVP4NADLoYSLjtw5tmPO88P4MglzqbAM5y%2FsQ1EIGrx%2FiCOUliZ9tjC0N7u6nqZZ54bSmrHwdkcnx5MHczsDI8THIUgnc10NGuWtbN6CCKJb9xSrPqBOWVIbOyae0B65sPR2cyVl7rwiRH3ewMkEbED%2BlDi4aJXhMLchcjE3gHtKPtQ%2B06aE1vJSsFHGxVaofOMIv7X1Y5YjwEkaboUc2qLTFRwofj50HB%2FDRrvQxptzlFvRHoEKJS0luoyBuTnaq%2BlfP%2Fx1rWmSL5wDYZ22OkejDrpJ7TBjqwAV3SDdHW8VaBx6GGVP5bNPbLWjTRZA9YiiJbrmK3iDG2fnHL9o2riCrKwR0zofBMhX3ePcWKRCEfqW%2F5jooR5YR4NVZHUKiBPozP2Dq%2F1C1%2B5IsWwU%2FyXkAQLWg6bdt%2Fl7FWRICQkSVt38XzzMWumli%2FaWv2ftAv2MJ8I5%2F71LmUK%2Fb1nhxPwlOeLkU47X%2BlJlw5aS%2Bu38F%2Fl2CQxrsejCzs6DCSObwjWgSrUHqzF6DP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260727T182739Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTAZ3Y2DB%2F20260727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5f149afedf5173c7111539ea271298a64f66e6220a65770dd1cfa78a1aa09ae9&hash=7cd4281a9eccbba2fe73937f184dfc4eb364700d3115ed479ba38972807c717d&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0888327026005108&tid=spdf-6e902bff-683a-4942-9566-ed25aa126aad&sid=ae00fa6b78f35242f589a15-b053c88ab2f3gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0102045550050754530d&rr=a21db30cba8d63c5&cc=gb
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:D8lF9eAN140J:scholar.google.com/&output=citation&scisdr=CslyjNC8EN7V0aujvSA:AM1tuoMAAAAAamelpSBHBMbuicr2t2anurMgH78&scisig=AM1tuoMAAAAAamelpVoIUEYT5O8bDp4yQYNuRuI&scisf=4&ct=citation&cd=-1&hl=en
+    # notes: Early Accept
+
   - title: "A spectrum of physics-informed Gaussian processes for regression in engineering"
     authors: Elizabeth Cross, Timothy Rogers, Daniel Pitchforth, Samuel Gibson, Sikai Zhang, <strong>Matthew Jones</strong>
     # conference_short: MSSP
@@ -50,12 +59,3 @@ main:
     # image: ./assets/img/teaser_example.png
 
     
-  - title: "Physically meaningful uncertainty quantification in probabilistic wind turbine power curve models as a damage-sensitive feature"
-    authors: Jacques Mclean, <strong>Matthew Jones</strong>, Brandon O'Connell, Eoghan Maguire, Timothy Rogers
-    # conference_short: MSSP
-    conference: Structural Health Monitoring (SHM).
-    pdf: https://journals.sagepub.com/doi/full/10.1177/14759217231155379
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3k5STM8v5p8J:scholar.google.com/&output=citation&scisdr=ClHd9VfaEJPB4A051M0:AFWwaeYAAAAAZac_zM1omdU_qt8TtFE4nx4cdko&scisig=AFWwaeYAAAAAZac_zJsQW4pEG8v-bR1iej8FOcg&scisf=4&ct=citation&cd=-1&hl=en
-    # image: ./assets/img/teaser_example.png
