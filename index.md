@@ -12,7 +12,7 @@ Hi there! My name is Matt and I am a Research Fellow in the [Dynamics Research G
 - **Trustworthy and explainable modelling** using Gaussian processes and physics-informed machine learning
 
 ## News
-- **[March 2026]** Our recent work looking at how we can utilise a suite of physics-informed Gaussian process models improved long-term health monitoring in MSSP. 
+- **[March 2026]** Work on improving long-term health monitoring through using a range of methods for embedding domain knowledge into machine learning was published in MSSP. 
 - **[Feb 2026]** Our paper on embedding physical knowledge into machine learning models that changes over time was published in MSSP.
 - **[Dec 2025]** Awarded a project to develop multi-modal digital twin technologies by DTNetPlus, with a focus on improved models for helicopter blades. 
 - **[Nov 2025]** Invited speaker at the bi-yearly meeting for the European project "Digital Bridge", Munich, Germany.
